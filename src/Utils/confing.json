@@ -1,0 +1,32 @@
+{
+    "title": "This is homepage",
+    "description": "This is homepage description",
+    "theme": {
+        "primarycolor": " #cc0000",
+        "secondaryColor":"#660000",
+        "accentColour": "#ffe6e6"
+    },
+    "ServiceCardDirection": "col" ,
+    "services": [ 
+        {
+            "title":"Cake🎂",
+            "description": " a breadlike food made from a dough or batter that is usually fried or baked in small flat shapes and is often unleavened.",
+            "price": "₹499 "
+        },
+        {
+            "title":"Bradepav 🍜",
+            "description": "Pav is basically a small loaf of bread, introduced by the Portuguese in India. Thus, also referred to as 'pao,' going by the Portuguese food traditions",
+            "price": "₹79 "
+        },
+        {
+            "title":"Pizza 🍕",
+            "description": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese",
+            "price": "₹149 "
+        },
+        {
+            "title":"Chocky 🥮",
+            "description": "Named Chocky Bars or Chocky Blocks due to their similar appearance to a bar or block of chocolate, it is their unique design and notched backing that make them easy to cut to size",
+            "price": "₹199  "
+        }
+    ]
+}
